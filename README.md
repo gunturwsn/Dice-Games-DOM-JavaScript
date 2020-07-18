@@ -8,3 +8,7 @@
 <li>Apabila pemain pertama telah melemparkan dadunya, kemudian giliran pemain kedua untuk melemparkan dadunya. Proses pemindahan pemain dengan cara menekan tombol <strong>Change Player</strong>.</li>
 <li>Pemain yang telah mencapai nilai score akhir adalah pemenangnya. (nilai score akhir telah ditentukan di awal permainan)</li>
 </ul>
+</br>
+</br>
+</br>
+<p>Games ini dibuat dengan HTML, CSS, dan JavaScript dengan melakukan teknik DOM pada JavaScript</p>
