@@ -13,4 +13,4 @@
 </br>
 <p>Games ini dibuat dengan HTML, CSS, dan JavaScript dengan melakukan teknik DOM pada JavaScript</p>
 
-https://gunturw.github.io/Dice-Games-DOM-JavaScript/
+<a href="https://gunturw.github.io/Dice-Games-DOM-JavaScript/" target="_blank">https://gunturw.github.io/Dice-Games-DOM-JavaScript/</a>
